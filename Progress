@@ -1,0 +1,30 @@
+4/2/15: This is the original project (pre-GitHub)
+  - General Desc
+      - So far the user is able to create shape (quadrilaterals) and edit a limited amount of properties of the custom shapes they create
+      - Hitting the [Tab] key will hide any present menus (except for when in the main menu)
+      - Left clicking on a created shape allows the user to move the shapes position(x, y)
+      - Right clicking on a created shape brings up a quick menu that allows the user to edit the shape's properties
+  - Basic Menu Setup
+      - Place -> 
+                - Player -> (incomplete)
+                - Enemy -> (incomplete)
+                - Prop -> (incomplete)
+                - Custom -> 
+                          - 4 boxes used to define x, y, width and height of shape (quadrilateral)
+                          - Back -> goes back
+                - Back -> goes back
+      - Open -> (incomplete)
+      - Save -> (incomplete)
+      - Help -> (incomplete)
+      - Exit -> exits
+  - Quick Menu Setup
+      - Delete -> deletes the shape
+      - Rotate -> switches the width and height of the shape
+      - Colliding -> (incomplete)
+      - Text -> (incomplete)
+      - Move -> locks the shape to the mouse, click when shape is in position (essentially the same exact thing as left clicking and moving)
+      - Color -> (incomplete)
+      - Edit -> Brings up a menu that allows the user to change the x, y, w, and h properties of the shape
+      - Close -> closes the quick menu
+      
+      
